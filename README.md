@@ -48,3 +48,6 @@ delay increasing exponentially for each consecutive error. If the API returns er
 scripts will stop and exit.
 
 GPT-3.5-turbo-16k limits token size to 16 thousand, so the script is set up such that it will only read the first 50k characters (approximately 15 pages). In my testing, it provided good results (even for 20+ page papers), but if your paper is significantly longer, it might result in an incomplete summary since a large chunk of the original paper is not fed into the API.
+
+## Demo
+![Xnip2023-09-18_14-34-19](https://github.com/Wensupu-Yang/Smart_Extract_Science_Papers/assets/26530267/1b9e03e3-6611-4e29-b849-4cdd8130fd48)
