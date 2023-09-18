@@ -1,4 +1,4 @@
-# Quickly_Extract_Science_Papers
+# Smart_Extract_Science_Papers
 Too many science papers to read. For papers in your experienced field, you might not need to read from front to back to understand and extract useful information. However, for unfamiliar fields, it's often inaccessible and hard to read, even with decent scientific reading training.
 
 This script automatically classifies the research paper and asks appropriate questions to help you quickly extract information, or decide to give it a detailed read.
