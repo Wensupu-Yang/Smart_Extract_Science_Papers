@@ -1,0 +1,5 @@
+bs4
+halo
+openai
+pypdf2
+pyyaml
