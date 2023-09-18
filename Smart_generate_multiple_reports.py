@@ -89,8 +89,8 @@ if __name__ == '__main__':
                 page = pdf_reader.pages[page_num]
                 paper += page.extract_text()
 
-        if len(paper) > 60000:
-            paper = paper[0:60000]
+        if len(paper) > 50000:
+            paper = paper[0:50000]
         
         ALL_MESSAGES = [{'role':'system', 'content': SYSTEM_PROMPT + paper}]
         report = ''
